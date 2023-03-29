@@ -1,0 +1,4 @@
+alias спроєктувати='mkdir'
+alias зібрати='cat << "EOF"'
+alias замінити='rm'
+alias оглянути='less'
